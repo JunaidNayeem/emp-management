@@ -1,0 +1,7 @@
+header .avatar {
+  position: absolute;
+  right: 30px;
+}
+header .avatar:hover {
+  cursor: pointer;
+}
